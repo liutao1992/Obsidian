@@ -1,0 +1,51 @@
+# Obsidian 配置与缓存
+.obsidian/
+.obsidian/workspace.json
+.obsidian/plugins/
+.obsidian/themes/
+
+# Agent / Skill 配置
+.agents/
+skills-lock.json
+
+# 系统文件
+.DS_Store
+Thumbs.db
+._*
+
+# 笔记无关的附件 / 文档
+*.pdf
+*.PDF
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+
+# 压缩包与可执行文件
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.exe
+*.dmg
+*.pkg
+
+# 音视频文件
+*.mp3
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wav
+*.flac
+
+# 图片（若仅想保留 Markdown 笔记，可取消注释）
+# *.png
+# *.jpg
+# *.jpeg
+# *.gif
+# *.svg
+# *.webp
